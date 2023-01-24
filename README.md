@@ -13,6 +13,9 @@ Print the value using the format with decimal points.
 
 ### PROGRAM:
 ~~~py
+#Program to find the distance between two points.
+#Developed by: R.Vidhyadharan
+#RegisterNumber: 22008663
 x=[10,6]
 y=[4,2]
 dist=(((y[0]-x[0])**2+((y[1]-x[1])**2)))**0.5
